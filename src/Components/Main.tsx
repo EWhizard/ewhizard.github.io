@@ -53,8 +53,33 @@ const Main: React.FC<{}> = () => {
 
         <Carousels />
 
+        <h1 className="uppercase text-4xl font-semibold text-center mt-20 mb-5">
+          EWhizard Founder
+        </h1>
+
+        <div className="container h-full px-5 md:px-8 mx-auto flex space-y-5 md:space-y-0 md:space-x-5 py-5 flex-col md:flex-row mb-10">
+          <div className="border w-full border-opacity-20 border-white rounded-lg p-5 flex items-center flex-col md:flex-row">
+            <div>
+              {/* Image PlaceHolder */}
+              <div className="w-[180px] h-[180px] bg-white rounded-full flex items-center justify-center text-black">
+                Image Placeholder
+              </div>
+            </div>
+            <div className="ml-8">
+              <h1 className="text-3xl font-bold">D. Prem Dharshan</h1>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Architecto accusamus consequatur, incidunt, impedit non enim
+                eligendi asperiores quod unde repellendus voluptatibus, rem
+                ipsum deserunt praesentium. Voluptates nisi veniam architecto
+                earum?
+              </p>
+            </div>
+          </div>
+        </div>
+
         <h1 className="uppercase text-4xl font-semibold text-center mt-12">
-          Other Notable Members
+          Important Members
         </h1>
 
         <div className="container h-full px-5 md:px-8 mx-auto flex space-y-5 md:space-y-0 md:space-x-5 py-5 flex-col md:flex-row mb-10">
@@ -82,7 +107,7 @@ const Main: React.FC<{}> = () => {
         </div>
 
         <h2 className="text-3xl text-center font-semibold uppercase mb-5">
-          Members
+          Other Members
         </h2>
         <Members />
       </section>
