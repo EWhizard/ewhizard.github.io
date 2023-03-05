@@ -20,15 +20,13 @@ const Main: React.FC<{}> = () => {
           <div className="border w-full border-opacity-10 border-white rounded-lg p-5 hover:text-black hover:bg-white transition-all cursor-pointer">
             <h1 className="text-3xl font-bold">Who are we?</h1>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Perspiciatis, explicabo.
+              We are an organized Community of students thriving to establish a startup that provides solutions real world solutions with our innovative minds and talent.
             </p>
           </div>
           <div className="border w-full border-opacity-10 border-white rounded-lg p-5 hover:text-black hover:bg-white transition-all cursor-pointer">
             <h1 className="text-3xl font-bold">What do we do?</h1>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Perspiciatis, explicabo.
+              Currently, we build apps, websites, provide technical solutions for real world problems. EWhizard is a platform that showcases the talents of its community members and train ourselves to be a revolution for this world.
             </p>
           </div>
         </div>
@@ -64,13 +62,10 @@ const Main: React.FC<{}> = () => {
               </div>
             </div>
             <div className="ml-8">
-              <h1 className="text-3xl font-bold">D. Prem Dharshan</h1>
+              <h1 className="text-3xl font-bold">Prem Dharshan D</h1>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Architecto accusamus consequatur, incidunt, impedit non enim
-                eligendi asperiores quod unde repellendus voluptatibus, rem
-                ipsum deserunt praesentium. Voluptates nisi veniam architecto
-                earum?
+                Was a whizzkid with a Vision, now a man with the Mission. Prem has worked on many projects and is now currently working in PINS (PSG Indoor Navigation System).
+                Expert solutionist, creative, visionary and a cool dude. He is pursuing his Major in Software Systems in PSG College of Technology, Coimbatore.
               </p>
             </div>
           </div>
