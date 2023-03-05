@@ -10,9 +10,7 @@ const Main: React.FC<{}> = () => {
           EWhizard
         </h1>
         <p className="mt-5 w-1/2 pb-10">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
-          fugit ducimus quod officia impedit, culpa dolorem harum a, minus
-          tempora soluta aliquid sit facilis at nesciunt vitae quo id quia?
+          Emerging Whizzes of Technical Wizardry
         </p>
       </section>
 
